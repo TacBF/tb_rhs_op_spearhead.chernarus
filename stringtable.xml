@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_OP_Spearhead">
+
+	<Key ID="STR_TB_missionTitle_TB_OP_Spearhead">
+		<Original>OP Spearhead</Original>
+		<English>OP Spearhead</English>
+		<German>OP Spearhead</German>
+		<Italian>OP Spearhead</Italian>
+		<Spanish>OP Spearhead</Spanish>
+		<French>OP Spearhead</French>
+		<Czech>OP Spearhead</Czech>
+		<Russian>OP Spearhead</Russian>
+		<Polish>OP Spearhead</Polish>
+		<Hungarian>OP Spearhead</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_OP_Spearhead">
+		<Original>TacBF A&amp;S[T-10]: OP Spearhead</Original>
+		<English>TacBF A&amp;S[T-10]: OP Spearhead</English>
+		<German>TacBF A&amp;S[T-10]: OP Spearhead</German>
+		<Italian>TacBF A&amp;S[T-10]: OP Spearhead</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: OP Spearhead</Spanish>
+		<French>TacBF A&amp;S[T-10]: OP Spearhead</French>
+		<Czech>TacBF A&amp;S[T-10]: OP Spearhead</Czech>
+		<Russian>TacBF A&amp;S[T-10]: OP Spearhead</Russian>
+		<Polish>TacBF A&amp;S[T-10]: OP Spearhead</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: OP Spearhead</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
